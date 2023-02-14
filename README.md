@@ -1,2 +1,2 @@
-# resources-photos-1
-Free "public domain" photos (set 1).
+# resources-animals
+Free "public domain" resources about animals.
